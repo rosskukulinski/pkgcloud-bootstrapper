@@ -10,7 +10,7 @@
   "main": "./lib/pkgcloud-bootstrapper.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmalecki/pkgcloud-bootstrapper.git"
+    "url": "https://github.com/pkgcloud/pkgcloud-bootstrapper.git"
   },
   "peerDependencies": {
     "pkgcloud": "*"
